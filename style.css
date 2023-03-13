@@ -1,0 +1,82 @@
+nav{
+    position: static;
+}
+.image{
+    height:50px;
+    width:200px
+}
+.image1{
+    height: 309.4px;
+    width: 278.55px;
+    box-shadow: 5px 5px 5px grey;
+}
+h2{
+    color: #00B39B;
+    font: 34px;
+    font-weight: lighter;
+}
+p{
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.2;
+    /* margin: 0;
+    color: #fff; */
+}
+h5{
+    font-size: 1.625em;
+    font-weight: 400;
+    margin: 0.3em 0;
+}
+a{
+    width: 100%;
+    background: transparent;
+    border: 0;
+    border-radius: 0;
+    padding: 0 2em 0 0;
+    /* -webkit-appearance: none; */
+    outline: 0;
+    text-transform: none;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.improve, .pa{
+    font-size: .875em;
+    max-width: 460px;
+    margin: 0 auto 4.1875rem;
+}
+
+.btn1{
+    border: 0;
+    border-radius: 4px;
+    padding: 1.1666666667em 1.5em;
+    background: #3d83df;
+    font-family: Roboto,Arial,sans-serif;
+    line-height: 1em;
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: .04em;
+    font-size: .75rem;
+    text-align: center;
+    text-decoration: none!important;
+    text-transform: uppercase;
+    transition: all .2s ease 0s;
+}
+
+.card-text{
+    font-size: larger;
+    font-weight: ;
+}
+
+.join-us__header {
+    max-width: 520px;
+    margin: 0 auto;
+    font-size: .875em;
+    text-align: center;
+}
+
+.pass{
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: -.3px
+    font-size: large;
+}
